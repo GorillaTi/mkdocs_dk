@@ -78,3 +78,5 @@ puede obtener nuevos temas en:
 [MkDocs](https://www.mkdocs.org)
 
 [MkDocs-Material](https://github.com/squidfunk/mkdocs-material)
+
+[Cómo utilizar Markdown para escribir documentación | Adobe Experience Cloud](https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown)
