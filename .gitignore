@@ -32,7 +32,6 @@
 *.log
 **/H*
 **/h*
-**/project
 
 # Ignore sensitive files containing credentials or secrets
 *.pem
