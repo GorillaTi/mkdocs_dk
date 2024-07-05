@@ -1,0 +1,14 @@
+site_name: Mi primer pyoyecto MKDocs
+
+nav:
+  - Home: index.md
+  - Micelanea: varios.md
+  - Otras: otras.md
+    
+use_directory_urls: false
+
+theme:
+  name: material
+  locale: es
+  color_mode: auto
+  nav_style: primary
