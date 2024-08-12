@@ -1,21 +1,23 @@
+![Docker Pulls](https://img.shields.io/docker/pulls/ecespedes/mkdocs)![Docker Image Version (tag)](https://img.shields.io/docker/v/ecespedes/mkdocs/latest)
+
 # MkDocs en Docker
 
 ## Características
 
 Imagen creada con:
 
-- Python 3.9
+-   Python 3.9
 
-- MkDocs 1.6.0
+-   MkDocs 1.6.0
 
-- MkDocks-Material 9.5.27
+-   MkDocks-Material 9.5.27
 
 ## Iniciar el Servicio
 
 ### Con docker run
 
 ```bash
-docker run --rm -it -p 8000:8000 -v .:/usr/src/app ecespedes/mkdocs:1.0.0 bash 
+docker run --rm -it -p 8000:8000 -v .:/usr/src/app ecespedes/mkdocs:1.0.0 bash
 ```
 
 ### Con docker-compose
@@ -69,7 +71,7 @@ puede obtener nuevos temas en:
 
 [Temas](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
 
-[Plugins](https://github.com/mkdocs/catalog) 
+[Plugins](https://github.com/mkdocs/catalog)
 
 ---
 
